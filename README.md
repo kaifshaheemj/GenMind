@@ -1,0 +1,2 @@
+# GenMind
+RAG integrated Chatbot 
